@@ -5,5 +5,9 @@ The precise tracking and segmentation of surgical instruments have led to a rema
 
 ### To-do
 - [ ] Tutorial for evaluation and training
+- [ ] add more visualization results
+
+### Acknowledgements
+Thanks [SAM LoRA](https://github.com/MathieuNlp/Sam_LoRA.git) and [XMem++](https://github.com/max810/XMem2.git) 
 
 
