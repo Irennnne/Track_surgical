@@ -8,14 +8,14 @@ The precise tracking and segmentation of surgical instruments have led to a rema
 - [ ] add more visualization results
 
 If you find our code or paper useful, please cite as
-      @misc{yu2024adapting,
+'''@misc{yu2024adapting,
       title={Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos}, 
       author={Jieming Yu and Long Bai and Guankun Wang and An Wang and Xiaoxiao Yang and Huxin Gao and Hongliang Ren},
       year={2024},
       eprint={2404.10640},
       archivePrefix={arXiv},
       primaryClass={eess.IV}
-      }
+}'''
 
 
 ### Acknowledgements
